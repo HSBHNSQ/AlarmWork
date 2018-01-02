@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">ShiftWork</string>
+    <string name="cancel">取消</string>
+    <string name="sure">确定</string>
+    <string name="setting_set">设置</string>
+    <string name="setting_comment">给我们评分</string>
+    <string name="setting_suggections">意见反馈</string>
+    <string name="setting_send_email">发邮件</string>
+    <string name="setting_no_app_market">您没有安装应用市场</string>
+    <string name="open_permission_">当前应用没有此权限，是否前往设置权限</string>
+    <string name="sw_edit">编辑</string>
+    <string name="sw_email">邮箱</string>
+    <string name="sw_email_number">:np2016.ant@gmail.com</string>
+    <string name="sw_remind_advance">提前提醒</string>
+    <string name="sw_vibration">开启震动</string>
+    <string name="sw_shift_work_type">设置倒班类型</string>
+    <string name="sw_year">年</string>
+    <string name="sw_month">月</string>
+    <string name="sw_day">日</string>
+    <string name="sw_today">今天</string>
+    <string name="sw_tomorrow">明天</string>
+    <string name="sw_after_tomorrow">后天</string>
+    <string name="sw_bai_ban">白班</string>
+    <string name="sw_ye_ban">夜班</string>
+    <string name="sw_xiu_ban">休班</string>
+    <string name="sw_delete">删除</string>
+    <string name="sw_save">保存</string>
+    <string name="sw_plz_enter_name">请输入名称</string>
+    <string name="sw_shift_work_name">倒班名称</string>
+    <string name="sw_detail">详情</string>
+    <string name="sw_shift_work_cycle">倒班周期</string>
+    <string name="sw_remind">提醒</string>
+    <string name="sw_days">天数</string>
+    <string name="sw_di_tian">第%d天</string>
+    <string name="sw_ring_set">提醒铃声</string>
+    <string name="sw_start_time">开始时间</string>
+    <string name="sw_volume">音量</string>
+    <string name="sw_open_shift_work">开启倒班</string>
+    <string name="sw_close">关闭</string>
+    <string name="sw_go_set">去设置</string>
+    <string name="sw_not_delete">该项您正在使用无法删除！</string>
+    <string name="sw_notes_content">注意事项：为避免设置提醒后闹钟不响，请注意以下设置 \n\n
+        &#160;&#160;&#160;
+        1.开启自启权限\n
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+        请前往手机自启权限管理界面，
+        找到该应用并打开自启权限。
+        由于安卓手机型号不同相应的设置方式也各不相同，
+        如果您找不到应用程序自启管理界面，
+        请使用搜索引擎搜索相应的“您的手机型号 + 设置自动启动”等关键字眼，
+        然后进行设置。\n\n
+        &#160;&#160;&#160;
+        2.不要被后台管理软件或安全软件清理掉\n
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+        如果使用了一键清理或第三方安全卫士软件请将该应用添加至白名单中。</string>
+    <string-array name="remind_advance_times">
+        <item>无</item>
+        <item>10分钟</item>
+        <item>30分钟</item>
+        <item>1小时</item>
+        <item>2小时</item>
+    </string-array>
+</resources>
